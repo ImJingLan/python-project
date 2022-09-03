@@ -35,9 +35,7 @@ git clone https://gitee.com/imjinglan/bilicover.git
 
 #### Windows
 
-如果你是Windows 用户，我建议你使用打包好的.exe版本，你可以在这里找到
-
-[RELEASES](https://gitee.com/imjinglan/bilicover/releases)
+暂时不提供可执行程序版本，请参照**通用方法**
 
 #### MACOS & LINUX
 
