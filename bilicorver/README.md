@@ -11,12 +11,17 @@
 
 ```
 Python3
+requests
+re
+json
+sys
+os
 ```
 
 在命令行中执行以下指令
 
 ```python
-pip install requests
+pip install 库名
 ```
 
 
